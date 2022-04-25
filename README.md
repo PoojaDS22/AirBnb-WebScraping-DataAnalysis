@@ -23,7 +23,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 
 ## Webscraping Project Approch:
-<img src = "WebScrapping_Airbnb_2.jpg">
+<img src = "WebScrapping_Airbnb_2.png">
 
 ## Contact
 
