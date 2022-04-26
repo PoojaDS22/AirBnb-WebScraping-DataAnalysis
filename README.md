@@ -1,14 +1,14 @@
 # AirBnb-WebScraping-DataAnalysis
-Scraping data from web using python library Beautiful Soup and Selenium.
+To scrap data from web using python library, Beautiful Soup and Selenium.
 
 ## Overview
 
-This project scrapes Hawai Airbnb locations via beautifulsoup and selenium.
+This project scrapes Airbnb listings based on various locaitons in Hawai using beautifulsoup and selenium.
 
 The exploratory data analysis (EDA) begins in Python with some data cleaning and visulization.
 
 ## Installation
-This project requires Python and the following Python libraries installed:
+This project requires Python along with installation of the following Python libraries:
 
     Beautiful Soup Library
     Selenium
